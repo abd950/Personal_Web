@@ -1,0 +1,71 @@
+header{
+    position: sticky;
+    top: 0%;
+    
+}
+
+header {
+    background:#001f3c;
+    padding: 10px;
+    display: flex;
+    font-weight: bold;
+}
+#brand {
+    width: 300px;
+    height: 300px;
+    border-radius: 0%;
+
+}
+
+
+img{
+    width: 200px;
+    height: 80px;
+    border-radius: 50%;
+}
+.link:hover{
+    background-color: blanchedalmond;
+ justify-content: space-around;
+ 
+}
+nav{
+    background-color: #001f3c;
+    font-display: flex;
+    padding: 0.5%;
+    font-weight: bold;
+    
+
+}
+ .gallery2{
+    margin: 5px;
+    width: 300px;
+    
+ }
+ .gallery2 .description2{
+    padding: 10px;
+    text-align: center;
+ }
+ .gallery2:hover{
+    border: #01274b;
+    font-size: 1.3em;
+
+ }
+ .gallery2 image{
+    width: 10%;
+    height: auto;
+ }
+
+ #payment{
+    text-align: center;
+    margin: 0%;
+    background-color: #214b72 ;
+ }
+ h1{
+    text-align: center;
+ }
+
+
+
+
+
+

@@ -1,0 +1,75 @@
+header{
+    position: sticky;
+    top: 0%;
+    
+}
+div {
+    font-family: Arial, Helvetica, 
+    font-size: 16px;
+}
+header {
+    background:#001f3c;
+    padding: 10px;
+    display: flex;
+    font-weight: bold;
+}
+#brand {
+    width: 300px;
+    height: 300px;
+    border-radius: 0%;
+
+}
+.items:hover {
+    background-color: rgb(214, 202, 202);
+    font-size: 1.1em;
+
+}
+a {
+    text-decoration: none;
+    width: 80%;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+img{
+    width: 80px;
+    height: 80px;
+    border-radius: 30%;
+}
+.link:hover{
+    background-color: blanchedalmond;
+ justify-content: space-around;
+ 
+}
+nav{
+    background-color: #001f3c;
+    font-display: flex;
+    padding: 0.5%;
+    font-weight: bold;
+    
+
+}
+ .gallery{
+    display: inline-block;
+    margin: 1px;
+    width: 200px;
+    
+ }
+ .gallery .description{
+    padding: 10px;
+    text-align: center;
+ }
+ .gallery:hover{
+    border: #05427b;
+    font-size: 2em;
+
+ }
+ .gallery image{
+    width: 100%;
+    height: auto;
+ }
+
+
+
+
